@@ -1,7 +1,7 @@
 # EXT2-Filesystem
 Linux EXT2 Filesystem that needs to be ran on a linux system. I recommend using wsl or something similar if you need to use a virtual machine.
 
-To run this program you need to ./mk
+To run this program you need to use the command ./mk while in the linux terminal
 From there you need to ./a.out one of two files:
 either ./a.out mydisk OR ./a.out disk2
 
